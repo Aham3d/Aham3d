@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Web DEV<br>⚡ Fun fact - Drop Out
+🌱 Web DEV<br>⚡ Fact - Drop Out 
 
 
 ## 🌐 Socials:
