@@ -1,5 +1,5 @@
 # 👋 Hi!! <br>
-🌱 Web DEV<br>⚡ Fact - Drop Out
+⚡Web DEV
 <img align="right" src="https://visitcount.itsvg.in/api?id=Aham3d&icon=1&color=12&bg_color=00000000)](https://visitcount.itsvg.in"/>
 
 <br>
