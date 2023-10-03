@@ -1,36 +1,14 @@
-# 👋 Hi!! <br>
-⚡Web DEV
-<img align="right" src="https://visitcount.itsvg.in/api?id=Aham3d&icon=1&color=12&bg_color=00000000)](https://visitcount.itsvg.in"/>
+<h1 align="center">Hi 👋, I'm Moin Ahamed</h1>
+<h3 align="center">Web Dev from India</h3>
 
-<br>
+- 🌱 I’m currently learning **React & JAVA**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- 📫 connect with me **ahamedjust@gmail.com**
 
-<br><br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ahamed_just" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahamed_just" height="30" width="40" /></a>
+</p>
 
-# 📊 GitHub Stats:
-<a href="https://github.com/Aham3d/github-readme-stats">
-  <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api?username=Aham3d&show_icons=true&theme=light&hide_border=false" />
-</a> 
-
-<br><br>
-
-<a href="https://github.com/Aham3d/convoychat">
-  <img align="center" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aham3d&theme=light&hide_border=false" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Aham3d/github-readme-stats">
-  <img align="center" width="46%" height="200px" margin="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aham3d&layout=compact&theme=light&hide_border=false" />
-</a>
-
-<br><br>
-
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@not_ahamed) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ahamed_just) 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
