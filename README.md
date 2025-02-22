@@ -2,6 +2,9 @@
 ⚡I’m currently learning Javascript
 
 ## 🌐 Socials:
+<a href="https://www.instagram.com/moin.ahamedd/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+</a>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/moin.ahamedd/)[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ahamed_just)
 
 ## 💻 Tech Stack:
